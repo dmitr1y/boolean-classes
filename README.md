@@ -1,2 +1,2 @@
 # boolean-classes
-Boolean classes inspector ccreated by [VitaliyGit](https://github.com/VitaliyGit)
+Boolean classes inspector created by [VitaliyGit](https://github.com/VitaliyGit)
